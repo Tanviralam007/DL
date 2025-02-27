@@ -30,3 +30,7 @@ The U-Net model achieves high accuracy in segmenting handwritten digits, effecti
 ## Conclusion:
 
 U-Net is a powerful architecture for image segmentation tasks, including handwritten digit segmentation. Its ability to capture both local and global context makes it well-suited for accurately delineating objects within images. This project provides a starting point for further exploration of U-Net and its applications in image segmentation.
+
+Ref:
+- (https://medium.com/@alexquesada22/u-net-a-versatile-deep-learning-architecture-for-image-segmentation-2a85b52d71f6)[u-net-a-versatile-deep-learning-architecture-for-image-segmentation]
+- (https://medium.com/towards-data-science/how-to-easily-draw-neural-network-architecture-diagrams-a6b6138ed875)[how-to-easily-draw-neural-network-architecture-diagrams]
